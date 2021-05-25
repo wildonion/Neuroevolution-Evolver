@@ -8,6 +8,11 @@
 
 
 
+================================================================================================
+Optimizing Neural Network Hyperparameters of RL and Fuzzy Problems using Evolutionary Algorithms 
+================================================================================================
+
+
 https://link.springer.com/article/10.1007/s13369-017-2987-z
 https://pubmed.ncbi.nlm.nih.gov/29424634/
 https://www.sciencedirect.com/science/article/abs/pii/S0957582017302185
@@ -63,3 +68,51 @@ https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-
 https://www.kdnuggets.com/2018/03/introduction-optimization-with-genetic-algorithm.html
 https://www.kdnuggets.com/2018/04/genetic-algorithm-key-terms-explained.html
 https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
+
+
+
+
+
+
+
+========================================================================
+Improving Clustering Methods using Fuzzy, Genetic and Firefly Algorithms 
+========================================================================
+
+
+https://content.sciendo.com/configurable/contentpage/journals$002famns$002f5$002f1$002farticle-p1.xml?tab_body=abstract
+https://www.hindawi.com/journals/complexity/2020/3650926/
+https://www.sciencedirect.com/science/article/abs/pii/S0925231219310598
+https://www.mdpi.com/2078-2489/9/4/101
+https://www.diva-portal.org/smash/get/diva2:829433/FULLTEXT01.pdf
+https://www.sciencedirect.com/science/article/abs/pii/S0031320399001375
+https://matteucci.faculty.polimi.it/Clustering/tutorial_html/cmeans.html
+https://www.sciencedirect.com/science/article/pii/0098300484900207
+https://www.sciencedirect.com/science/article/abs/pii/S0895611105000923
+https://sites.google.com/site/dataclusteringalgorithms/fuzzy-c-means-clustering-algorithm
+https://www.datanovia.com/en/lessons/fuzzy-clustering-essentials/fuzzy-c-means-clustering-algorithm/
+https://www.ijcaonline.org/archives/volume166/number4/shaikh-2017-ijca-913996.pdf
+https://www.sciencedirect.com/science/article/pii/S1877050915021298
+https://www.sciencedirect.com/science/article/pii/S1568494619305447
+https://ieeexplore.ieee.org/document/6292460
+https://link.springer.com/article/10.1007/s40515-015-0021-z
+https://link.springer.com/article/10.1007/s11042-017-5176-x
+https://www.hindawi.com/journals/afs/2017/7094046/
+https://ieeexplore.ieee.org/document/7724551
+https://www.researchgate.net/publication/261224388_Survey_of_clustering_algorithms_using_fuzzy_logic_in_wireless_sensor_network
+https://www.sciencedirect.com/science/article/pii/S1877050918306501
+https://link.springer.com/chapter/10.1007/978-3-540-77467-9_7
+https://www.cs.cas.cz/~petra/slides/dexa.pdf
+https://www.ripublication.com/ijaer17/ijaerv12n24_35.pdf
+https://arxiv.org/pdf/1002.2194.pdf
+http://faratarjome.ir/u/media/shopping_files/store-EN-1460441633-2114.pdf
+https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.47
+https://ieeexplore.ieee.org/document/8284468
+https://github.com/wiqaaas/youtube/blob/master/Machine_Learning_from_Scratch/Fuzzy_Clustering/Fuzzy_Clustering.py
+https://automaticaddison.com/k-means-clustering-algorithm-from-scratch-machine-learning/
+https://kenzotakahashi.github.io/k-means-clustering-from-scratch-in-python.html
+https://mmuratarat.github.io/2019-07-23/kmeans_from_scratch
+https://github.com/HaaLeo/swarmlib/blob/master/swarmlib/fireflyalgorithm/firefly.py
+https://github.com/HaaLeo/swarmlib/blob/master/swarmlib/fireflyalgorithm/firefly_problem.py
+https://github.com/HaaLeo/swarmlib/blob/master/swarmlib/fireflyalgorithm/main.py
+https://github.com/HaaLeo/swarmlib/blob/master/swarmlib/fireflyalgorithm/visualizer.py
